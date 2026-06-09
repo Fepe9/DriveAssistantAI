@@ -1,0 +1,1732 @@
+{
+  "analisi_drive": {
+    "data": "2026-06-05",
+    "totale_file_analizzati": 190,
+    "note_generali": [
+      "Anno scolastico corrente: 4DS - Anno scolastico 2025-26",
+      "File con date 2022-23 → 1DS, 2023-24 → 2DS, 2024-25 → 3DS",
+      "Le cartelle anno scolastico (1DS, 2DS, 3DS, 4DS) e Classroom, CPU, Annibale, Colab, Salesiani, Creazione siti web, Tirocinio sono già cartelle: non richiedono spostamento",
+      "NON sono state apportate modifiche al Drive"
+    ]
+  },
+  "file": [
+    {
+      "nome": "Quaderno delle Riflessioni - Pedretti Federico",
+      "id": "143jAd0Arg-CJhxdvB64tmMJgfHbCyYcymW_a_4n8gRM",
+      "destinazione": "Personale/",
+      "motivazione": "Documento personale/riflessivo, non classificabile come materia scolastica specifica.",
+      "confidenza": 72
+    },
+    {
+      "nome": "HP Pavillion Gaming Laptop",
+      "id": "1_hflumDvW7BdhgRW_Z0tNprv4DJh4016zVb_N9FIpzs",
+      "destinazione": "Personale/",
+      "motivazione": "Documento relativo a un prodotto personale, non materia scolastica.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Giacomo Leopardi",
+      "id": "1RBDc5bkb8Bkjl3G6C0aQtIuAl64IWHCz0kVSjfea56Q",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Teoria",
+      "motivazione": "Autore della letteratura italiana, argomento tipico di Italiano.",
+      "confidenza": 88
+    },
+    {
+      "nome": "APPUNTI SETTIMANA 11-15/05/2026",
+      "id": "1jzaKbSb8zMNvPDRgVvtlJzux2tS1Xzj7hx6QxSBzKf8",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Appunti generici della settimana maggio 2026 (anno corrente), materia non identificabile dal titolo.",
+      "confidenza": 50
+    },
+    {
+      "nome": "APPUNTI LETTERATURA SETTIMANA 11-15/05/2026",
+      "id": "1LiUER5bgcH2t47AL2RadEo-Ype-ucH6LV5suN0l83C0",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Teoria",
+      "motivazione": "Appunti di letteratura, anno scolastico corrente.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Forme di Governo - ChatGPT",
+      "id": "1utQ9RcYGOjvlMMffPwt7IabeCtua4hbw0PIQ8iyD9oM",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Contenuto relativo a forme di governo, tipico di Storia o GPOI. Preferenza Storia per il tema.",
+      "confidenza": 68
+    },
+    {
+      "nome": "Stato sviluppo progetto e-Trentin",
+      "id": "1-Czb37V4X15tTWUavxZk85p--whOj7qydw1k-ybbKa4",
+      "destinazione": "4DS - Anno scolastico 2025-26 / GPOI / Esercizi",
+      "motivazione": "Progetto software con nome trentino, probabile progetto GPOI o Informatica. Il termine 'stato sviluppo' suggerisce GPOI.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Pedretti Federico - Scheda Dati Tirocinante PCTO.xlsx",
+      "id": "1N7Qi4XV4bYYuxG6Azk0Q6No858Ncoy5p",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza / Compiti",
+      "motivazione": "Scheda dati PCTO (alternanza scuola-lavoro). File personale/sensibile.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Copia di Scheda Dati Tirocinante PCTO.xls",
+      "id": "1KP-dEPptAAeJ0bPGnSsq8wj4Eb-gbaLw",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza / Compiti",
+      "motivazione": "Copia duplicata della scheda PCTO. Probabile duplicato da verificare per eliminazione.",
+      "confidenza": 85,
+      "avviso": "DUPLICATO - valutare eliminazione"
+    },
+    {
+      "nome": "PCTO Cisco Junior IT Academy - Cybersecurity",
+      "id": "1P-Q_9ngB_xShu17rFNktEli2GXkkJAdaDBb3ThfdXTE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza / Teoria",
+      "motivazione": "Documento PCTO relativo a corso Cisco Cybersecurity, attività di alternanza.",
+      "confidenza": 90
+    },
+    {
+      "nome": "PCTO Cisco Junior IT Academy - CODING: Python",
+      "id": "1KGW8BqT9NnDKyb_TgQGXTyhkGfQ-4UL3F5IP6s3OYMw",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza / Teoria",
+      "motivazione": "Documento PCTO relativo a corso Cisco Python, attività di alternanza.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Cose da fare vacanze Pasqua 2026",
+      "id": "1M0isd8dKLSJBFGkHW6C7eH56oLhib1kGo9kRq666Kac",
+      "destinazione": "Personale/",
+      "motivazione": "Lista personale per le vacanze, non contenuto scolastico classificabile.",
+      "confidenza": 85
+    },
+    {
+      "nome": "PROMPT PER AUTOMATIC PROMPT ENGINEERING (APE)",
+      "id": "1HpxVbM6bOZb7Hcgbp3xVqBsszcHx8FpenOwx_akeXqA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Contenuto tecnico su AI/prompt engineering, riconducibile a Informatica.",
+      "confidenza": 70
+    },
+    {
+      "nome": "X webvalley",
+      "id": "1H6FkUFJ1lGa6F76hkhpzbyaocE7iq_yx2fb3xe46PM8",
+      "destinazione": "Personale/",
+      "motivazione": "Titolo ambiguo, possibile documento legato a evento/esperienza extrascolastica WebValley.",
+      "confidenza": 55
+    },
+    {
+      "nome": "\"Curriculum\"",
+      "id": "14mKm9he-wyCNtZF1zgbASr5jXKP9A1MxhMb4EeU3cB4",
+      "destinazione": "Personale/",
+      "motivazione": "Curriculum vitae, documento personale sensibile.",
+      "confidenza": 95
+    },
+    {
+      "nome": "Copia di SHIFT SEN6",
+      "id": "1CRpcflMpF33-UXjO3xQWm5ly0-ouhI8RuJXK1XqxDdbMr4wsCGOqTYu_BAiqmIMKDOJ3LFI",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "SHIFT/SEN suggerisce Sistemi e Reti. Shortcut probabilmente verso esercizio o lab.",
+      "confidenza": 62
+    },
+    {
+      "nome": "Programma viaggio d'istruzione Napoli",
+      "id": "17XdoAotHZv0JKAp4-1SD0mkcEstVDtC7Dt-RVRZnpO4",
+      "destinazione": "Personale/",
+      "motivazione": "Documento relativo a gita scolastica, non classificabile in materia specifica.",
+      "confidenza": 80
+    },
+    {
+      "nome": "X Napoli",
+      "id": "16yYWh70scKim-quhNhwfDqe474SLWtFImHWOKSwu-AQ",
+      "destinazione": "Personale/",
+      "motivazione": "Documento probabilmente legato al viaggio a Napoli, uso personale.",
+      "confidenza": 60
+    },
+    {
+      "nome": "Appunti progetto parole trentine gpoi",
+      "id": "1U4hNBCB1lIiqFgSHnTZPzyWJAFlQR-E3Z6s4W8aifbk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / GPOI / Esercizi",
+      "motivazione": "Titolo esplicito con 'gpoi' e 'progetto', anno corrente.",
+      "confidenza": 92
+    },
+    {
+      "nome": "Video motivazionale Arcoda",
+      "id": "1MKq8yJPuBxmsZWHfr9l2J0ka9ggAgLizIS5mEZIWMJw",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza",
+      "motivazione": "Documento legato a un'azienda/ente (Arcoda), probabile materiale PCTO/Alternanza.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Guida ai Comandi e alla Sintassi Scripting Bash",
+      "id": "1N_VPmQh044kVxhHmyr_70jo4Xxp-e4CwMIr3B_bO1B4",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Scripting Bash è argomento tipico di Sistemi e Reti o TPSIT. Preferenza Sistemi per il contesto.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Copia di 1_IntroductionADTDaCompletare.docx",
+      "id": "1QIIQvjkDEBOnM8yRnXDMkJNI-daHPN0l",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "ADT (Abstract Data Type) è argomento di Informatica.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Copia di FEDERICO PEDRETTI - Risorse e condivisione",
+      "id": "1cqMZ_K0YCh6doTdnpVy2A4pTjIfomXFPLfISgCKLWpI",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Condivisi",
+      "motivazione": "Titolo contiene 'condivisione', probabile file condiviso con la classe.",
+      "confidenza": 70
+    },
+    {
+      "nome": "Video motivazionale NTS Bootcamp",
+      "id": "1481mtI6MuEqbIcuJxY8bqSeu9Fzap1DQVLV-WHjpeXE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza",
+      "motivazione": "NTS Bootcamp è un'attività extrascolastica/tirocinio, legato ad Alternanza.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Copia di 4_testi_esercizio_ubuntu.docx",
+      "id": "1mMpgn7neZUeOaJyY_4lkwCSL8s2UUAcomftot4B1j3pbNV06ybh_L-iRtcpjCU5vBPJrWOk",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Esercizi su Ubuntu, tipico di Sistemi e Reti.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Copia di Esercizio in preparazione facile",
+      "id": "1d2qf_7P6cY_2H_ThFIzJ9Dzh2_Nhe9_OD07-VEJDd7g",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Titolo generico, materia non identificabile.",
+      "confidenza": 40
+    },
+    {
+      "nome": "Copia di Copia di FEDERICO PEDRETTI - ScriptBash6",
+      "id": "13SA8x8VjX9m6r8wx9b0fy_pHNijnfUyXWclQ6lcEb1o",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Script Bash, tipico di Sistemi e Reti. Possibile duplicato.",
+      "confidenza": 82,
+      "avviso": "Probabile duplicato - verificare versione originale"
+    },
+    {
+      "nome": "tipiGenericiMensole.drawio",
+      "id": "1aFHemojWvXA6NlPS0tLA4BDk8b_Ib7nAnZBbbBYX2iS-AQixmvbebBrRO4kD3sGMcS6bHBM",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "File drawio (diagramma UML/schema), argomento Informatica o GPOI.",
+      "confidenza": 65
+    },
+    {
+      "nome": "3_testo_esercizio_ubuntu",
+      "id": "1xj04M0NZm1cR4lhVo8MYVvsqKtRfEWUGH7qaDnv5u2vMNeq6CH4SosA6le371H1b8WnlAe4",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Esercizi Ubuntu → Sistemi e Reti.",
+      "confidenza": 87
+    },
+    {
+      "nome": "2_testo_esercizio_ubuntu",
+      "id": "1R6LmsGBcn0D-9Q-rHda-dcbU9jaheatQBG5Dz3CYPxcax0pMbchKfgyaJi--V5SZV_y9q24",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Esercizi Ubuntu → Sistemi e Reti.",
+      "confidenza": 87
+    },
+    {
+      "nome": "Synergie - Contrattualistica",
+      "id": "1In8cDZDISgYO1sj3HV8yuLsYu4GAUvVHdN2A6i--cC8",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza",
+      "motivazione": "Synergie è un'agenzia per il lavoro, documento contrattuale legato a tirocinio/PCTO.",
+      "confidenza": 82
+    },
+    {
+      "nome": "1_testo_esercizio_ubuntu",
+      "id": "1jGFiJsZ4BNEGSPrbO1Ln0mmJYCY1Npel_IF0Qa-8AcCihXMOU09oACN8nz4MQElFujAU6M4",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Esercizi Ubuntu → Sistemi e Reti.",
+      "confidenza": 87
+    },
+    {
+      "nome": "Impegni Federico - Calendario",
+      "id": "16iWW0QDtGZU5EDub4ZQwT40v3M9Op_gChSDByO6VQww",
+      "destinazione": "Personale/",
+      "motivazione": "Calendario personale degli impegni.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Esercizio supernetting - tabella routing (02/12/2025)",
+      "id": "16sMKPB5WGa4oGgHzdeQ2MxLoJAZvNmjVtj-r9G1MAhMDd5yfUcr3bC-pD1-GPFiCyvXPZgk",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Supernetting e routing sono argomenti di Sistemi e Reti. Data 2025 → 4DS.",
+      "confidenza": 95
+    },
+    {
+      "nome": "125_All.1 LIBERATORIA IMMAGINE Londra.pdf",
+      "id": "1g6hT_6CylEZpfLnusN6foVMjwIEEJ1EU",
+      "destinazione": "Personale/",
+      "motivazione": "Liberatoria immagine per gita a Londra, documento personale/amministrativo.",
+      "confidenza": 88
+    },
+    {
+      "nome": "125_All.2_autorizzazione Londra.pdf",
+      "id": "19NVl9yssbLyz87A5lESWuCxhsA-niPOq",
+      "destinazione": "Personale/",
+      "motivazione": "Autorizzazione per gita a Londra, documento personale/amministrativo.",
+      "confidenza": 88
+    },
+    {
+      "nome": "UML Designer",
+      "id": "18n86pAmYRN22JUhAloNnx9kVGui8ad8LfjtSJWjxcV4",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "UML è argomento di Informatica o GPOI. Preferenza Informatica.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Genially - Primo soccorso",
+      "id": "1lUqBcu2F8nEdw5DP7Xp_pER5cXIiHJ1fsyb9dtsfc-U",
+      "destinazione": "Personale/",
+      "motivazione": "Contenuto relativo a primo soccorso, non classificabile in materie scolastiche standard.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Giornata lunedì 17/11/2025",
+      "id": "12_q3BVksJj-q55zLMS4C8sz76tzFuibBUCSCqRAJubc",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza",
+      "motivazione": "Resoconto di giornata lavorativa/stage, probabile diario di alternanza.",
+      "confidenza": 60
+    },
+    {
+      "nome": "Copia di Sito parole dialetto",
+      "id": "1phaMYQvZZ_Fa50lb8Tom9XmgsSvWNn6CUswzuHjqEUk",
+      "destinazione": "3DS - Anno scolastico 2024-25 / GPOI / Esercizi",
+      "motivazione": "Probabile variante del progetto 'parole trentine' di GPOI (3DS).",
+      "confidenza": 68
+    },
+    {
+      "nome": "Copia di Gioco dadi (shortcut 1)",
+      "id": "1ubPcO82ObwwO2fJ1zF4U8XKvzyyKcaBLLBhtQId-BU-fXMWo_HpXjc2ZB0i0tqDYORprmZQ",
+      "tipo": "shortcut",
+      "destinazione": "3DS - Anno scolastico 2024-25 / Informatica / Laboratorio",
+      "motivazione": "Gioco dadi → esercizio programmazione Informatica.",
+      "confidenza": 72,
+      "avviso": "DUPLICATO con shortcut seguente - verificare"
+    },
+    {
+      "nome": "Copia di Gioco dadi (shortcut 2)",
+      "id": "1DXGIuHgG12pwIPeeumnrETeBT4ngFPW9t4kS9lFA9ukv9Xfat9VqvVfG3VCw0zvP3jDRook",
+      "tipo": "shortcut",
+      "destinazione": "3DS - Anno scolastico 2024-25 / Informatica / Laboratorio",
+      "motivazione": "Duplicato dell'altro shortcut 'Copia di Gioco dadi'.",
+      "confidenza": 72,
+      "avviso": "DUPLICATO - valutare eliminazione"
+    },
+    {
+      "nome": "Numeri assassini - Mariano Tomatis",
+      "id": "1rIpJ0ERY9FNTJXDHfDwtTWEMCo1vlA6qCGwon2WYBG24XrPcztAPDUJIScgISmui3Zh4Ifg",
+      "tipo": "shortcut",
+      "destinazione": "Personale/",
+      "motivazione": "Libro divulgativo su matematica/magia, probabilmente lettura personale.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Struttura relazione romanzi estate",
+      "id": "1KC13Ih-L7YDz7rl0LKZqRKk-u9RYBPGwkjCqcHG0ao",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Compiti",
+      "motivazione": "Relazione su romanzi estivi, compito di Italiano.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Personaggi \"La tregua\" Primo Levi",
+      "id": "15TUhnJ_3cqJlul6qlvYgJKeHyJrmLLQ81xg8y2d1jFs",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Teoria",
+      "motivazione": "La Tregua di Primo Levi, analisi letteraria → Italiano.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Scelta libri italiano - Estate 2025",
+      "id": "1wEjF4N1oj3UU7vTV6EHJlWeIrS1K5LZkhEaNGeV49ao",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Compiti",
+      "motivazione": "Selezione libri per compiti estivi di Italiano.",
+      "confidenza": 90
+    },
+    {
+      "nome": "adesione_stage_PEDRETTI_FEDERICO.docx",
+      "id": "1PgxpBBlam163Ywl2Y5_JtSl6-MfYXDCU",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza / Compiti",
+      "motivazione": "Modulo di adesione stage, documento PCTO/Alternanza personale.",
+      "confidenza": 92
+    },
+    {
+      "nome": "Italiano - file appunti per compagni",
+      "id": "1YJp2L0DcYHGCR-l5RJgg47IArJEQznU4GZpsMAP849M",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Condivisi / Italiano_shared",
+      "motivazione": "Appunti condivisi con i compagni per la materia Italiano.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Appunti interrogazione",
+      "id": "16DHBuXEXRJLNC3WVaUWCo6JnZu6HnVtTy8h7g_4eE2U",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Materia non specificata nel titolo.",
+      "confidenza": 40
+    },
+    {
+      "nome": "Ripasso verifica -- Livello 2 e partizionamento",
+      "id": "1dM1Mi0ee1a_2ZpD7v8EWTOpdJvd4N79xOOOmGk6C4QjnARqjKq2PmtS-Ut-ab2R8V5hzjzU",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Compiti",
+      "motivazione": "Partizionamento è argomento tipico di Sistemi e Reti.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Esercizio in preparazione corso Cisco",
+      "id": "1YVjdrN2awHnfPDBsGoOWjqu5zN3bLGOVkAnxg5i9H00",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Esercizi",
+      "motivazione": "Cisco → Sistemi e Reti.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Appunti lezione TPSIT 06/05/25 per assenti a causa evento NAO Challenge (Argomento: Puntatori e Stringhe in C)",
+      "id": "1rdC4nHoAsQhZI1Af4edc1cW3zMFCpX3JXcX7b0LxhFI",
+      "destinazione": "3DS - Anno scolastico 2024-25 / TPSIT / Teoria",
+      "motivazione": "Titolo esplicito: TPSIT, data maggio 2025 → 3DS. Appunti condivisi.",
+      "confidenza": 96
+    },
+    {
+      "nome": "prjForza4GUI",
+      "id": "1aSn8FSi-8LqmQO5vt9K3t3_403Lgd8_BwNSgOXyX-THOH8cwslIUSfmBDPHYPdVZZZ2wNqg",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Progetto Forza4 con GUI → esercizio di Informatica.",
+      "confidenza": 85
+    },
+    {
+      "nome": "LearningApps.mp4",
+      "id": "1XZoKE46h3i9JrxpIzeWmezleU8sP6_oE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Video di LearningApps, materia non identificabile.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Educaplay.mp4",
+      "id": "1faoCd_JW79zee71ab43-93AQ5sofMYNs",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Video di Educaplay, materia non identificabile.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Calendario marzo 2025",
+      "id": "11dNjb6YUbkHIOdBxSgerQfoxV9Dn-U_PfXrxnXCToAY",
+      "destinazione": "Personale/",
+      "motivazione": "Calendario personale.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Formazione dei pregiudizi e degli stereotipi.pdf",
+      "id": "19yConqgX_4cOrjl0KxWzJrWj_N7fGh-z",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Argomento sociologico/storico, potrebbe essere Storia o Italiano. Preferenza Storia.",
+      "confidenza": 60
+    },
+    {
+      "nome": "Matematica",
+      "id": "112QzvG3gWaa0yMRy2LBNXP9TL3vXLpgsup2vkqFwv5A",
+      "destinazione": "Da classificare / Matematica (materia non presente nel Drive)",
+      "motivazione": "Matematica non è una materia nel Drive strutturato (4DS). Potrebbe essere anno precedente.",
+      "confidenza": 50,
+      "avviso": "Materia 'Matematica' non prevista dalla struttura Drive corrente"
+    },
+    {
+      "nome": "Copia di Flippity.net Video Game Template",
+      "id": "1-aPuRL7LtJFGydnICYZ7RCFCPI3aL376XIuI2z3HyBg",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Template videogioco Flippity, materia incerta.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Diritti umani - Testo argomentativo",
+      "id": "1dPkkOo2NxNTKc7TGIoIgqWIn_FdptI_FsPaYCh-UvIhuKYt2qY_QBHrSF2Tw0OVNYWkAYMo",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Compiti",
+      "motivazione": "Testo argomentativo su diritti umani → Italiano.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Copia di Foglio di lavoro senza titolo",
+      "id": "1oMy1R1IqXmzwul8yL51S2VyG-NEc-_VloZlT5IyOa3I",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo generico, impossibile classificare.",
+      "confidenza": 20
+    },
+    {
+      "nome": "Documento senza titolo (1LFyq3t...)",
+      "id": "1LFyq3tquTLPWXqWPVE9s86ky8ZdU7LCuqSZxtZCGloQ",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo generico, impossibile classificare.",
+      "confidenza": 20
+    },
+    {
+      "nome": "Copia di MSc in AI and Robotics Online",
+      "id": "1z9UMmTTHPyLSAtb89-taoH6fwVGsjQOFIZGroYNMDtc",
+      "destinazione": "Personale/",
+      "motivazione": "Documento relativo a un corso universitario (AI e Robotica), uso personale/orientamento.",
+      "confidenza": 82
+    },
+    {
+      "nome": "2.5.5-packet-tracer---configure-initial-switch-settings",
+      "id": "16YX_flvJs70gh6ga391-9rfqunJ-Kd2F4AvixsLfZbM",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Packet Tracer e switch configuration → Sistemi e Reti.",
+      "confidenza": 95
+    },
+    {
+      "nome": "Calcolo mcm e mcd di array",
+      "id": "13ouwIeEkvss447y1AlCgeJLfgk76jIle7TTSA3YDf_I",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Esercizi",
+      "motivazione": "Algoritmo mcm/mcd su array → esercizio di Informatica.",
+      "confidenza": 85
+    },
+    {
+      "nome": "MCD",
+      "id": "1BeaGnJIWNglm4fvDAs2FJ5zCCZ-F_HSHd6CIqFPCUhjJQf8qnJHSJ6DFsRNsPkeYGOCmgyk",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Esercizi",
+      "motivazione": "MCD → algoritmo informatica.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Relazione 1 - codice colori resistenze",
+      "id": "1pYsNURh7GCESBCkulejxgqfYCz0pa5r6CK9ONR8u6zAHtGcxtfeZCksMFXMRxSJQx6T1KPg",
+      "tipo": "shortcut",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Sistemi e Reti / Laboratorio",
+      "motivazione": "Resistenze/codice colori → laboratorio elettronica, tipico del 1° anno.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Simulazione assemblea di classe con il verbale",
+      "id": "1FGGqqS9AwN5TOvhQEwqEzR2Z9vvDUXVc7pLt9In8wQ9QCusYmLkkn2jwGrIMNjM6yeBys-w",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Rappresentante Classe",
+      "motivazione": "Verbale assemblea → Rappresentante di Classe.",
+      "confidenza": 82
+    },
+    {
+      "nome": "TPSIT esercizi assembly",
+      "id": "1WiY3mifNfv7ZJQw3IQq1iHcde0DnGYvUmlBBGLs2v-rA2DOD08ogy1Zpx1XbJ28COpM0maQ",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / TPSIT / Laboratorio",
+      "motivazione": "Titolo esplicito TPSIT + assembly.",
+      "confidenza": 93
+    },
+    {
+      "nome": "PlayDecide",
+      "id": "1tohX4pqOHhhe6i6XQlqQ8fYVdVFCAmEiFZJA_5R-f5I",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "PlayDecide è un gioco didattico ma la materia non è identificabile.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Cognome_Nome_PlayDecide",
+      "id": "1ocu600DEd_wEQ2FkELZ1OAW9j-hpHC6bW1c35iYuL4o",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Template PlayDecide, materia non identificabile.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Gioco visivo assemblea",
+      "id": "1r-TJW6I2wxMGxgZKs2Cyf3Mp-GibcwY3j534jCaKXBE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Rappresentante Classe",
+      "motivazione": "Gioco per assemblea → Rappresentante di Classe.",
+      "confidenza": 75
+    },
+    {
+      "nome": "IMG-20241003-WA0010.jpg",
+      "id": "1eT0VMwKYjd8FzNXIejY4xPSIJuo_ULSG",
+      "destinazione": "Personale/",
+      "motivazione": "Immagine personale (WhatsApp), nessun contesto scolastico.",
+      "confidenza": 80
+    },
+    {
+      "nome": "playlist.zip",
+      "id": "1VM__hUpHl1hXHtscqbWCAtNVbEg_lHPc",
+      "destinazione": "Personale/",
+      "motivazione": "File zip con playlist, probabile uso personale/musicale.",
+      "confidenza": 75
+    },
+    {
+      "nome": "html.zip",
+      "id": "1tCZ7sLw7gQxrT1B0sr5RnqVCD_Xmj-uY",
+      "destinazione": "4DS - Anno scolastico 2025-26 / TPSIT / Laboratorio",
+      "motivazione": "Archivio HTML → TPSIT o Informatica. Preferenza TPSIT per HTML.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Giornata campo CONI",
+      "id": "1-Tg5jzvfSMH5NWDdp8n8_n6D9Q5jY8mrchYoxzmwLy4",
+      "destinazione": "Personale/",
+      "motivazione": "Evento sportivo CONI, non scolastico.",
+      "confidenza": 80
+    },
+    {
+      "nome": "prjFirstProject.zip",
+      "id": "1i2OAmfZdphvlDp2oe6C0tap0QA8b0a7d",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Primo progetto di programmazione → Informatica.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Uscita gang bilancia 12/06/2024",
+      "id": "1ers6lr4l7Dp8hVYidP9x4AvULzCuyQLFuoZU1_J1zRk",
+      "destinazione": "Personale/",
+      "motivazione": "Documento personale legato a un'uscita con amici.",
+      "confidenza": 85
+    },
+    {
+      "nome": "PEDRETTI_FEDERICO_2DS_2024 maggio - teorica.docx (copia 1)",
+      "id": "11artNDm-oUuQdbzMm_dZ1i0wDCkZNmbE",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare / Compiti",
+      "motivazione": "Verifica teorica 2DS maggio 2024. Materia non specificata.",
+      "confidenza": 78,
+      "avviso": "DUPLICATO - vedi copia 2"
+    },
+    {
+      "nome": "PEDRETTI_FEDERICO_2DS_2024 maggio - teorica.docx (copia 2)",
+      "id": "1GkhjTF92yTDTO4CSAx91aevQPWbckKx0",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare / Compiti",
+      "motivazione": "Duplicato identico del precedente.",
+      "confidenza": 78,
+      "avviso": "DUPLICATO - valutare eliminazione"
+    },
+    {
+      "nome": "Assessment questions",
+      "id": "1iiHqD9FHMFBxV34aRMoY-h-GhFy3DBbOXb_VqkDKA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Titolo in inglese 'assessment questions', probabile modulo valutazione Inglese.",
+      "confidenza": 70
+    },
+    {
+      "nome": "TED videogames",
+      "id": "1NJSjvMEikQWVBcYlVWS26naU1fYOzLsf2b03kT2dqNk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Talk TED, probabilmente per Inglese.",
+      "confidenza": 65
+    },
+    {
+      "nome": "3 aprile 2024",
+      "id": "1bgenhBUUUfyrVWujFwMWLm38v57dH2EeHIlCq-fRaWw",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo solo con data, impossibile classificare.",
+      "confidenza": 20
+    },
+    {
+      "nome": "Tesi",
+      "id": "1bdkhItGcV-_JlU92IkCoBl3GhkFIYcNvDK_quhfqhBA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Tesi finale, materia non specificata.",
+      "confidenza": 50
+    },
+    {
+      "nome": "Statistica script video",
+      "id": "1bA3az09dyHrrOMS_lY3J_NOCgziXmJIOHbGtoG-zA0w",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Script per video con statistica, materia incerta (Informatica o GPOI).",
+      "confidenza": 50
+    },
+    {
+      "nome": "San Romedio (documento)",
+      "id": "1485ydEmfxQqmNR5699kDm0RetaELYuZ71VWX9XjHWfE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "San Romedio è un santuario del Trentino, argomento storico/culturale.",
+      "confidenza": 68,
+      "avviso": "DUPLICATO con presentazione 'San Romedio'"
+    },
+    {
+      "nome": "San Romedio (presentazione)",
+      "id": "1BgaN7vjBE5PqjKej9C4OKdRoCXPW7jb7pGlHUAFUCEw",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Presentazione su San Romedio → argomento storico/culturale.",
+      "confidenza": 68
+    },
+    {
+      "nome": "Equazione_secondo_grado.xlsx",
+      "id": "1ryKzMI8agH8_EX-ehaB_MXte23hz52A6",
+      "destinazione": "Da classificare / Matematica",
+      "motivazione": "Matematica non è nella struttura Drive, probabilmente anno precedente non strutturato.",
+      "confidenza": 55
+    },
+    {
+      "nome": "SVILUPPO AMBIENTALE E TUTELA DEL TERRITORIO",
+      "id": "1LTJKcyuB6z9WvLjOUj-oBl4Mpys-VwiCeiLXorJmTZE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Tema ambientale/territoriale, potrebbe essere Storia o attività ECC.",
+      "confidenza": 60
+    },
+    {
+      "nome": "2023-2024_ECC_SECONDE_rev00",
+      "id": "1k3AbrHp6T4Hxu5zowigXnbJ_zUqIWGpdkxQIlF3lREM",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "Materiale ECC per le classi seconde, anno 2023-24.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Copia di present perfect",
+      "id": "11vVRLKfDgxqDx3YJXnk7HWeCMoRo6H-o62W4U3B-3J8",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Teoria",
+      "motivazione": "Present perfect → grammatica inglese.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Caduta di un grave",
+      "id": "124JSU2dLYASIFCgiaDVzcTsCEsYZCuPxc2pL3Q7jAgo",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non è nella struttura Drive corrente. Probabile anno 1DS/2DS.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Informatic escape room",
+      "id": "1wzjN5C6TTFtK05B96u2v13JLhaE3xGbxuvWIqdm4NBo",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Esercizi",
+      "motivazione": "Escape room su Informatica.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Le vacanze di Natale",
+      "id": "1V8eFaH4xbNQXNGtRGOSDYUMbcOhaPOpsjNJw3GgPKyg",
+      "destinazione": "Personale/",
+      "motivazione": "Documento personale sulle vacanze.",
+      "confidenza": 70
+    },
+    {
+      "nome": "Escape room",
+      "id": "1TBayWi6lUfqXZ7tGrZT8Beva8IF-2Ov2f1GYLMu0HfQ",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Escape room generica, materia non specificata.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Elenco compiti vacanze",
+      "id": "1d8IscbasTw7SJJgJYBhphuhuW5W69kd6oHUsDd88HAk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Elenco compiti, materia non specificata.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Appunti presi durante l'interrogazione di diritto",
+      "id": "12oKHn6G3rjabIXSV8joG2X5ETxYvBld_JNXfBu1lKkk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Diritto non è materia separata nel Drive; viene spesso trattato in Storia.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Preparazione interrogazione diritto",
+      "id": "12AfNhpntqm1Nn2tquKrex6oYP7q4FyvabFcw_Unp8OA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Compiti",
+      "motivazione": "Come sopra, diritto → Storia.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Governo appunti",
+      "id": "1PqIXwyhISkToWx9Y3-VoCk54BUWyFPe5SqCXcK-MAfI",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Appunti sul governo → Storia.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Il governo diritto",
+      "id": "16N8P3pw_fg3gOm7ghx4-hV_hQU6D8l4AxJBt2PEcl08",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Esercizi",
+      "motivazione": "Form su governo/diritto → Storia.",
+      "confidenza": 70
+    },
+    {
+      "nome": "Copia di WIEDERHOLUNG",
+      "id": "1SPpaxr_koc44zyEs0Mr6fNN7IFJZ2pvO5WTZwvEaA8I",
+      "destinazione": "Da classificare / Tedesco (materia non prevista)",
+      "motivazione": "Wiederholung = ripasso in tedesco. Materia non nella struttura Drive attuale.",
+      "confidenza": 85,
+      "avviso": "Materia 'Tedesco' non prevista nella struttura Drive"
+    },
+    {
+      "nome": "Agricoltura romana - Fratelli gracchi",
+      "id": "1So1LolNRGgwYjeL3ECu30MTXbdxIna8VmhL-TC5wjDY",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Argomento di storia romana → Storia, probabile 1DS.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Risoluzione grafica disequazioni.xlsx",
+      "id": "1U_RvyH0ZSTgELP-Utfj6dJp_X_6bKOdn",
+      "destinazione": "Da classificare / Matematica",
+      "motivazione": "Matematica non è nella struttura Drive.",
+      "confidenza": 60
+    },
+    {
+      "nome": "Inglese",
+      "id": "1Rw7gyyGfAEYVnnH0HSDE2IM18emfuqdfFIx9TGFHKQI",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Teoria",
+      "motivazione": "Documento titolato 'Inglese'.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Overflow",
+      "id": "1RiXPxrgMzVLX9c6s_VkdKDQ3TVNXCjFkElydkPcmp2A",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Overflow è concetto di informatica/programmazione.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Fisica",
+      "id": "1RQSDqtZWKyoXSWlm2pobjsT7QrxJYKSnDBOMQHkJFew",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non è materia nella struttura Drive attuale.",
+      "confidenza": 65
+    },
+    {
+      "nome": "TTRG 7 dicembre 2023",
+      "id": "11x_TdRYr_WrbHSbsrinl_PGuUTyQ3FkMkOsnKkcyy5k",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "TTRG non è una materia riconoscibile nella struttura. Data dicembre 2023 → 2DS.",
+      "confidenza": 55
+    },
+    {
+      "nome": "Riassunti libro ttrg: le proprietà dei materiali",
+      "id": "1RCwus52h2MDRjYpZclbuXlLn0g38SCIn9gl05tiM1yA",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "TTRG (Tecnologie e Tecniche di Rappresentazione Grafica?) non nella struttura Drive.",
+      "confidenza": 55
+    },
+    {
+      "nome": "La decretazione d'urgenza",
+      "id": "1O_YMCNjYgKLQtiAuAZvgGWtQFVGnxx6ShFXt52HZP0Y",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Argomento giuridico/istituzionale → Storia.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Diritto lezione in breve",
+      "id": "1Qw5-4J_sWEbBjXfD5_lnQTR3i2Bfmud_V6nceTPZNx0",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Diritto → Storia.",
+      "confidenza": 70
+    },
+    {
+      "nome": "2DS_Dicembre_Teoria_2023_Pedretti.docx",
+      "id": "1zP7kdJaw-wh5sB8_R84zsMw-JCITXOlc",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare / Teoria",
+      "motivazione": "Documento teorico 2DS dicembre 2023, materia non specificata nel titolo.",
+      "confidenza": 78
+    },
+    {
+      "nome": "2DS_G12",
+      "id": "1j23uuejaPu2xB8hOQdF2nD2zFxB5NhSWJg4KJQ4ZKRA",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Informatica / Laboratorio",
+      "motivazione": "Nome progetto informatica 2DS (G=gruppo, 12=numero).",
+      "confidenza": 60
+    },
+    {
+      "nome": "Informatica 12 dicembre 2023",
+      "id": "1LqgDb69R1OlyO3_VAxVYpXd73BXMSEIQsnWZTaDaCqlw",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Informatica / Teoria",
+      "motivazione": "Appunti Informatica dicembre 2023 → 2DS.",
+      "confidenza": 93
+    },
+    {
+      "nome": "Concentrazione molare",
+      "id": "1Pl1Wv1wDlUROB9btlkzhxYUlEilA8DX3sWRTcuEXNmc",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica non è nella struttura Drive attuale.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Annibale e le guerre puniche (documento)",
+      "id": "16W03hoStpgpe_N3mNcUkjWBmSYsL8wwUSgfVUIEG9zE",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Argomento di storia antica → Storia, 1DS.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Copia di Esercizio2",
+      "id": "1RRX00aO2PUhB51fx7lcEjiAtTN-GBjJrES77YAeYT6c",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Titolo generico, materia non identificabile.",
+      "confidenza": 30
+    },
+    {
+      "nome": "Copia di Copy of Esercizio1",
+      "id": "1v6qzI1-wGovHvz9EgP8Q-calDh8QdFBPKWMayuvAb3U",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Titolo generico, materia non identificabile.",
+      "confidenza": 30
+    },
+    {
+      "nome": "Moto rettilineo uniformemente accelerato (spreadsheet)",
+      "id": "11VMWiijLHcEsJ5qhwZXMD8_fT4gzZ3bFXPQ94L8aV9o",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non è nella struttura Drive.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Tedesco 29 novembre 2023",
+      "id": "1O9efqIWjP9NrGdC7ZiHusSPsztJ6Fn0chh2HQ8bYKlQ",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "Tedesco non è nella struttura Drive attuale.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Spiegazioni frasi relative",
+      "id": "1MmbDwOYLjpkVYSBamwlXE4TX6d86fJZ1Mndmdd2Mzao",
+      "destinazione": "Da classificare / Tedesco o Italiano",
+      "motivazione": "Frasi relative potrebbero essere italiano o tedesco.",
+      "confidenza": 55
+    },
+    {
+      "nome": "Linea del tempo Tridentum",
+      "id": "19eDBtXMImHQ0b_ltiSXW1-czwc_D_F97uLW2yLlKWdg",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Storia / Teoria",
+      "motivazione": "Tridentum = nome romano di Trento, argomento storia → 2DS per contesto.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Moto rettilineo uniformemente accelerato (documento)",
+      "id": "1NR0YeHU4g4t5ByX_DL79HRopuKJRcIDzXqGnCYbT_BY",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica, non nella struttura Drive.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Chimica - soluzioni con concentrazioni molari",
+      "id": "13RBUFE6vEMQf8aOIuUoB074FtRMseQHbhhjHdMiG7Wo",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica non è nella struttura Drive attuale.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Copia di Punti di debolezza e forza 3",
+      "id": "126-hHgevRaIB6Kcjv0nMFo9ZVPA4CUgWTbLys4Qfrn8",
+      "destinazione": "4DS - Anno scolastico 2025-26 / GPOI / Esercizi",
+      "motivazione": "Analisi punti di forza/debolezza → GPOI (gestione progetto).",
+      "confidenza": 65
+    },
+    {
+      "nome": "Copia di Punti di forza e di debolezza",
+      "id": "1Gvfx9vbT-CJ3AXfxxUpC5vrpcMLOgB86o9l-kAwjN-E",
+      "destinazione": "4DS - Anno scolastico 2025-26 / GPOI / Esercizi",
+      "motivazione": "Analisi SWOT/punti forza → GPOI.",
+      "confidenza": 65,
+      "avviso": "Probabile duplicato con 'Copia di Punti di debolezza e forza 3'"
+    },
+    {
+      "nome": "Relazione chimica 15/11/2023 - Stima del numero di Avogadro",
+      "id": "1OZaTo9zAm88ke3qGJCbwZ-3yn7gUsZjDWXgNOSqGbuw",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica, data novembre 2023 → 2DS. Materia non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Copia di Chimica 8 novembre 2023 - La mole",
+      "id": "1zMpGU9oVquELis-I2P2NHaa5tHHpM5Dsqj-Dur94h2w",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica → non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Relazione chimica 15/11/2023 - Le moli",
+      "id": "1PwWhkY2ihhyKoDdxDpOXGvZ5XjYQcZYdr-v8LRzfu7k",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica → non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Relazione chimica - La mole",
+      "id": "1UfiEKM848tWrKxd4ODe0Ya8q5B3PVZkZ6xdOB_oAtR4",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica → non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Implementazione funzione addDay",
+      "id": "1B81wZwG16O31JghaFZSDh7IWb2TNHSB2MbqV7aWeGwkxwj2Y__pLDBJmCaF41B1GnOQCeQU",
+      "tipo": "shortcut",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Implementazione funzione → laboratorio Informatica.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Appunti informatica 14 novembre 2023",
+      "id": "1O0Mu_om-c000Z2wq8uTBB4O31bX8PY7OCR7GB_7suxk",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Informatica / Teoria",
+      "motivazione": "Appunti Informatica novembre 2023 → 2DS.",
+      "confidenza": 93
+    },
+    {
+      "nome": "Trento romana",
+      "id": "1NKu39Y1XcUvMXQHOrZYN1u-ABVYBjWVkxp04z2y4NiI",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Argomento di storia antica → Storia, probabile 1DS.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Appunti Chimica",
+      "id": "1NsLgEpZaoWNI_Y1FpUR1cY_feshODrYz9wRiaUlj7Zw",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica non è nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Esercizio tedesco",
+      "id": "1M5AeFbUdvpnk6V1bwtp5peMJXuLuQksSD6QTGjCY-vo",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "Tedesco non nella struttura Drive.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Esperienza sul moto rettilineo uniforme",
+      "id": "1hPC5BzE-mY-talOSFQQ_i7aJ-P2VQ3Jr7tZp3-3V1EY",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Copia di Alfabetto delle professioni",
+      "id": "1QSFSSJu2sWu12nF-DK064LZR8c1EVQ-SZQLQ-BQxyOY",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Alternanza",
+      "motivazione": "Alfabeto delle professioni → orientamento/alternanza.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Esercizi di preparazione alla verifica di informatica",
+      "id": "1FYmj2YFpv0vixNkyFzCM1D94jAx6ffvDuyYbL3Lajqc",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Compiti",
+      "motivazione": "Preparazione verifica informatica.",
+      "confidenza": 90
+    },
+    {
+      "nome": "La ricerca scientifica - in preparazione alla verifica",
+      "id": "1I1nT60CEQ299mGl1OgoiFDnrMbEfXRWESdWOeSTbrfU",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Metodo scientifico, potrebbe essere Storia, Italiano, o altra materia.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Metodo di cramer - mate lab 2 novembre 2023",
+      "id": "1ZocX5LvvtG62WrNP0UpVjsrHSimJv1PNnE02MdSuPXM",
+      "destinazione": "Da classificare / Matematica",
+      "motivazione": "Metodo di Cramer → Matematica, non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Binario base X",
+      "id": "11iLdkKKXyHBGSvsZFtFOquu481Dy69456t58LpcejEo",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Conversione binaria → Informatica o Sistemi e Reti.",
+      "confidenza": 78
+    },
+    {
+      "nome": "ECC - ridurre le disuguaglianze.pages",
+      "id": "1aFC7pNdiJ2h8FmlsBL9nPVan527Y8Wyk",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "File ECC seconde (2023-24), materia non classificabile in struttura standard.",
+      "confidenza": 70
+    },
+    {
+      "nome": "ECC diritto - ridurre le disuguaglianze",
+      "id": "1FcnFlsN6zk0TIquFW0VgqYnIjQkcUN0k3cu0DEEgqGk",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "ECC diritto 2DS.",
+      "confidenza": 70,
+      "avviso": "Simile al precedente, verificare se duplicato"
+    },
+    {
+      "nome": "Ridurre le disuguaglianze - ECC",
+      "id": "1Mwi85yqnfJtjNCgeYKIosrzWLnruPNRpMIceAEpVi9U",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "ECC 2DS → terzo documento sullo stesso tema.",
+      "confidenza": 70,
+      "avviso": "Possibile duplicato/variante"
+    },
+    {
+      "nome": "Moto rettilineo uniforme (spreadsheet)",
+      "id": "10veJTJaRIuSD9EnwcLGvZgU9GzIWodeNOkMeMWnwINo",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non nella struttura Drive.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Match descrizione problema",
+      "id": "11Dpp2Hz8bFnYI9p-XQp5wPMiEnIbZoxiKS-OGDZmkWA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Descrizione problema algoritmo → Informatica.",
+      "confidenza": 75
+    },
+    {
+      "nome": "TraceTable match",
+      "id": "107k3vmtPYkZ4DDy0z9XoQAStchRgiwkWY3Wg3G-OuOM",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "TraceTable → Informatica.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Rappresentati classe 2Ds",
+      "id": "1ILq34UnrLsDwZ4a9fnrelktBV--BbaBL-3lLf46vErw",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Rappresentante Classe",
+      "motivazione": "Form per rappresentanti 2DS.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Moto rettilineo uniforme (documento)",
+      "id": "14jJy27AM36YQ_n0VfQRppeUToArMaQu086AUO6VPqdE",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non nella struttura Drive.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Copia di FacsimileFunzione",
+      "id": "1gnyHhEgD9mYSd_pqXHnVjYnvJUlPsLbRJ7JUSnH0vUk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "FacsimileFunzione → schema funzione Informatica.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Documento senza titolo (1DsDgm...)",
+      "id": "1DsDgmmFb_9byOVxBZXdGm1pH_8yfiaUT-uP52LeZolA",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo generico.",
+      "confidenza": 20
+    },
+    {
+      "nome": "Preparazione verifica tedesco",
+      "id": "1FIac3LAcDsQ6stcVm1zjhofMpxkp28okokVwPbVSj64",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "Tedesco non nella struttura Drive.",
+      "confidenza": 90
+    },
+    {
+      "nome": "prodotto_while / prodotto_for",
+      "id": "1_PoEHtiTCDpwNHGMmTWJkAuS8fubJ-4hYtpcI5nUdM",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Esercizi cicli while/for → Informatica.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Test Pirri 27-09-2023",
+      "id": "11WYpfB1gxiRDjpAuvRr7h0Yeu7N8dJ84XrjWucf7LG8",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare / Compiti",
+      "motivazione": "Test settembre 2023 (2DS), materia non identificabile dal nome del professore.",
+      "confidenza": 55
+    },
+    {
+      "nome": "CASI DI TEST esercizio",
+      "id": "1ODc4E0ZDU9IHk9nmb3P9D8oVnv6pjg7gqfBxbLrQBw4",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Casi di test → analisi software, Informatica.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Informatica 19 settembre 2023",
+      "id": "1lfEbntv7uCpKz6uMddMSrjZoWN7IYn3_PueJgmoKZKw",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Informatica / Teoria",
+      "motivazione": "Appunti Informatica settembre 2023 → 2DS.",
+      "confidenza": 93
+    },
+    {
+      "nome": "Lezione storia 12 settembre 2023",
+      "id": "1MKDNs5R2yMFhmHgQoTcqj7zzSgum2_sWOCNbFOOIiZs",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Storia / Teoria",
+      "motivazione": "Lezione storia settembre 2023 → 2DS.",
+      "confidenza": 93
+    },
+    {
+      "nome": "Il mago dei numeri",
+      "id": "1nxDNdfYNMnLS5RDyQMWTb_iHYB7weUqyZHnDxVkM_MA",
+      "destinazione": "Personale/",
+      "motivazione": "Titolo di libro divulgativo, lettura personale.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Compiti Vacanze Estive Informatica 2023",
+      "id": "1Xx7Te-9u1ffw61o-q8lu7PVT4n9bTjMJ6biOl0koRQg",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Informatica / Compiti",
+      "motivazione": "Compiti estivi Informatica estate 2023 → inizio 2DS.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Fusione del clorato di sodio",
+      "id": "1M75ck5KuNVAr-pBok0wHQtgaXnDLwV7soFZAAYNOrio",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Riassunto libro \"Qualcuno con cui correre\"",
+      "id": "1Lg6Rac1mwph3dk4pZZdDki5zxILTvTGOtwQ5weH9GqA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Teoria",
+      "motivazione": "Riassunto romanzo → Italiano.",
+      "confidenza": 82
+    },
+    {
+      "nome": "TED sull'esperienza di questo anno",
+      "id": "1LGJ8Vw-9Fuur_Q90dK7qdS5SE5wUsI2izOp_mLUyyf0",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Speech TED → Inglese.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Speech TED - Federico Pedretti (documento)",
+      "id": "1B20nQF8Q1I4JjrKS73OeoXUcndLpkevnUQ_9dZVLiOk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Speech TED → Inglese.",
+      "confidenza": 82,
+      "avviso": "Simile alla presentazione 'Speech TED' → verificare versioni"
+    },
+    {
+      "nome": "Agorà antica di Atene",
+      "id": "1L0NaINng7GdBNTID2fBWbxwSmqEGJbUf7MS5XoKBz7Y",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Storia antica greca → 1DS.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Legge di Stevino",
+      "id": "1KenGW7tMcX37dk1Pt3UYLaiZSr1WbVDCNxk0jfnpGug",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica (fluidi) non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Copia di Piero Calamandrei e Teresa Mattei",
+      "id": "1KLEerLCq5Vcp1lyUG5Up7U10jwYg9WAQdpFp9dswNcg",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Personaggi storici del dopoguerra italiano → Storia.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Soluzione Testo a buchi",
+      "id": "1H3F3EdrOk8oiAciIRLKWq94rX87ek7X9YTG63htyrrE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Materia non specificata.",
+      "confidenza": 35
+    },
+    {
+      "nome": "Equilibrio dei fluidi",
+      "id": "1DZccQeBr7r7kZl1h0MToByPTZ6SW4dmA1nRxuZAdhpk",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica (fluidi) non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Relazione fisica - leva bilaterale",
+      "id": "150SiASxKuMZP-pz_h-p4vSGUGx7Mp3W18mHQtCqZAuQ",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Relazione di Fisica.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Esperienza 16 maggio 2023",
+      "id": "11PEfisY9uV6oo0wnuF_EddzhbVeBBeS6XNIQi1qRVII",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Da classificare",
+      "motivazione": "Esperienza laboratorio maggio 2023 → 1DS, materia non identificabile.",
+      "confidenza": 60
+    },
+    {
+      "nome": "Copia di Federico's video",
+      "id": "1wYYfLHRVjxpOHVeUXSRRQYzVeiwBvp9W",
+      "destinazione": "Personale/",
+      "motivazione": "Video personale.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Il mio filmato.MOV",
+      "id": "11lR0qQbMVRIEea8p19HGhLmGQGIEXCoI",
+      "destinazione": "Personale/",
+      "motivazione": "Video personale.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Verbi irregolari tedesco",
+      "id": "1KcLSeN22fy-rvEFdov1t2HENvOs0DVUjq18yXL-6XFo",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "Tedesco non nella struttura Drive.",
+      "confidenza": 92
+    },
+    {
+      "nome": "Testo/verifica mia per preparazione: lo scudo di Talos",
+      "id": "1juuGdZB1reB-xa0flJP86N0knt967bNvT8qC9h7NTHU",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Compiti",
+      "motivazione": "Verifica su testo letterario/mitologico → Italiano.",
+      "confidenza": 72
+    },
+    {
+      "nome": "TEMPI PASSATI tedeschi",
+      "id": "10liJ7vhWi5LA73HLkEFojhzrN0_FTG2QmaK-aVHio-o",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "Grammatica tedesca, materia non nella struttura Drive.",
+      "confidenza": 92
+    },
+    {
+      "nome": "Palazzo della regione Trento",
+      "id": "1K6Yz5mVzv5iBkSV_l5EJHVsrCKQY64SkuOmS2Okpbbs",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Contenuto storico/culturale locale.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Festa ADS",
+      "id": "1is2qi51aIXFnBEtbVqCZw-qALyDssXr4VGVx_XL2-UU",
+      "destinazione": "Personale/",
+      "motivazione": "Evento personale/associativo.",
+      "confidenza": 70
+    },
+    {
+      "nome": "Testo Hector video",
+      "id": "1XgPuFdzmfv146bmrHYZUxsq_ufykI8FyRWRJw0M8EnQ",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Testo per video Hector (personaggio mitologico greco usato spesso in Inglese).",
+      "confidenza": 62
+    },
+    {
+      "nome": "Hector",
+      "id": "1ABuYs4yQNNg2cvy9Tvz76-Hl9qgZOldWSyAMMHcM6tM",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Presentazione Hector → Inglese.",
+      "confidenza": 60
+    },
+    {
+      "nome": "Antonio Megalizzi.pdf",
+      "id": "1TpKZ1yGV2sJ2rMzNy85LCFF9-yPEPcfE",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Teoria",
+      "motivazione": "Antonio Megalizzi, giornalista vittima di attentato, argomento di attualità/Italiano.",
+      "confidenza": 68
+    },
+    {
+      "nome": "Forza di attrito statico",
+      "id": "1JzsldNI7Muy7lzmg-IXeVa4JcL5_qID9Ea2F13giO3Q",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "Soluzioni a titolo noto",
+      "id": "1JGIdGN09QSU7vmJrS2TQeC2U9KokjjJoKFcYo_uRFsQ",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Soluzioni chimiche → Chimica non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Soluzioni con concentrazione diversa",
+      "id": "1HtwZV7eacTgKSZAV2du-xcRGNHTwN_Wrnk9lh0VdfM8",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Copia di Equilibrio su un piano inclinato",
+      "id": "1dsTXod_hkloBSwY5_1-idpoQKGDrMNqL8YwmV3uKiDA",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non nella struttura Drive.",
+      "confidenza": 88
+    },
+    {
+      "nome": "numero bit per colore TraceTable",
+      "id": "1UpLAm8BEx0qdpPo_l__H4NhDMjLMyH5kiFcVSXj1_ts",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Bit per colore → informatica (rappresentazione dati).",
+      "confidenza": 82
+    },
+    {
+      "nome": "Lezioni storia",
+      "id": "1Ejm3fLrDWoBNKkhD3RI746J_cC9AeilMIaxSes5Br98",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Appunti di storia.",
+      "confidenza": 80
+    },
+    {
+      "nome": "DATIVO vs ACCUSATIVO",
+      "id": "1D25xk1xB5_1S594TjFOmlIdohWZqZ2a3m8ACYma3Rww",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "Grammatica tedesca, non nella struttura Drive.",
+      "confidenza": 92
+    },
+    {
+      "nome": "Esperienza fisica 16 marzo: legge di HOOKE",
+      "id": "1DlB07lVpbsDJsLen-y19dhUAk-yazOllSR2vDGvE4pk",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Legge di Hooke → Fisica non nella struttura Drive.",
+      "confidenza": 92
+    },
+    {
+      "nome": "PREPOSIZIONI",
+      "id": "1MlT0ipGI6-NijxjxR-lyZVZLAwtbzLpwkF5b5rKfKcI",
+      "destinazione": "Da classificare / Tedesco o Italiano",
+      "motivazione": "Preposizioni, potrebbe essere tedesco o italiano.",
+      "confidenza": 55
+    },
+    {
+      "nome": "Copia di Speech TED - Federico Pedretti",
+      "id": "1l8rsk-waCpkRVodoPF_5s0IPlMk53F-s6795h1c5Edw",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Speech TED → Inglese. Copia dell'originale.",
+      "confidenza": 80
+    },
+    {
+      "nome": "perimetro e area triangolo.fprg",
+      "id": "1noUPFlaNYrYm5yRpOVtUpabpzuZk3zFR",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "File .fprg (flowgorithm) → algoritmo Informatica.",
+      "confidenza": 85
+    },
+    {
+      "nome": "La battaglia delle Termopili; il sacrificio di Leonida e dei greci",
+      "id": "12DjiS-sfZXlBsfAKFCA51iTu5E_60sWG40WChGQ1BOg",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Storia antica greca → 1DS.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Le guerre persiane",
+      "id": "1RFPRky2IgoUZna_C74zNqN2pRPbO0uvFVABZ6NRm5Zk",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Storia antica → 1DS.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Schule (vocaboli)",
+      "id": "1H0jkDij50eMgECHFLZGjLHCD_Zy2-8iMn-aE8sdj-Wk",
+      "destinazione": "Da classificare / Tedesco",
+      "motivazione": "'Schule' = scuola in tedesco. Vocaboli tedeschi, materia non nella struttura Drive.",
+      "confidenza": 92
+    },
+    {
+      "nome": "Speech TED - Federico Pedretti (presentazione)",
+      "id": "1919t2aEpBo4wKKWlLVfJs7YWFLCm3hWhZIiU2r4xzfA0",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Presentazione speech TED → Inglese.",
+      "confidenza": 85
+    },
+    {
+      "nome": "ECC disegno",
+      "id": "1FOXYAPArfG1TpYD9LPZCWSLkCZ3YYPxwq3Xv0b3Ut-4",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "ECC (Educazione Civica e Cittadinanza) disegno, materia non in struttura.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Descrizione lavori Viruskenner (anni precedenti)",
+      "id": "1G0lZ9Pcp7okdwQ-Dky_tKT6khFB8Wn5K0b5cjV1fTsc",
+      "destinazione": "Personale/",
+      "motivazione": "Documento su lavori anni precedenti, probabilmente PCTO/Alternanza personale.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Chimica 14/02/2023 - Reazione chimica",
+      "id": "1F8jmJLD2cIB7_YfLtS5K1f3TMDrKgXW90Du8KPObePQ",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica febbraio 2023 → 1DS. Materia non nella struttura Drive.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Idea TED",
+      "id": "1DhyF8vlx18WlHgIu4JsOHfrxEvjr3FqURIb92SZAPfQ",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Idea per speech TED → Inglese.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Lezione storia (attualità e storia antica)",
+      "id": "1_NRyBGQWCSpnfRXjH0XN6YAFQa1cFDmhA1StFLZB8Zk",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Lezione di storia 1DS (storia antica).",
+      "confidenza": 78
+    },
+    {
+      "nome": "Preparazione lezione storia 08/02/2023",
+      "id": "1DOT6yAh85g-aWlJUbgg-mUAdzPQeJQrXRS00Wa-Drhc",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Storia / Teoria",
+      "motivazione": "Preparazione lezione storia febbraio 2023 → 1DS.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Reazione chimica (7 febbraio 2023)",
+      "id": "1DI5dxm7oLR_Tsw5Wg8LqMQcXt3xdXKIKNOkp1tl2gFA",
+      "destinazione": "Da classificare / Chimica",
+      "motivazione": "Chimica 1DS, non nella struttura Drive.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Somma vettoriale",
+      "id": "16HRJc3J8ZRrWz0UIhDEQMzlxV_OZ2c-ASri6hFdDneI",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Vettori → Fisica non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Esperienza laboratorio 31/01/2023",
+      "id": "1D8wUj7drteoLmnrD_9JryM5QqnWzuAkTHl0udh0ebJw",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Da classificare",
+      "motivazione": "Esperienza laboratorio gennaio 2023 → 1DS, materia non identificabile.",
+      "confidenza": 55
+    },
+    {
+      "nome": "Compiti vacanze di Natale.docx",
+      "id": "1R-ucqs2qwuGVdzldfaO-k9bt8N4CEkWC",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "Compiti vacanze, materia non specificata.",
+      "confidenza": 45
+    },
+    {
+      "nome": "Ricerca su Stefano Mancuso",
+      "id": "1C_wVghK8q_kqBjflKMtlSfq7VVzQZ04J_Q-LOa0oo7M",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Teoria",
+      "motivazione": "Stefano Mancuso (botanico/scrittore) → ricerca per Italiano o Scienze.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Da base x a base 10",
+      "id": "10Zw7YSOXD82_eBmejKWBInYTveGWmhD38SZHeb-LbYA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Conversione numerica → Informatica.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Prova del tema su Ramses",
+      "id": "1D0BKFmoZLfyusQ-o7hVqPYNCzor9a-gO5_GAqJwJHKk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Italiano / Compiti",
+      "motivazione": "Tema su Ramses → Italiano (tema su argomento storico).",
+      "confidenza": 70
+    },
+    {
+      "nome": "How prevent? West Nile Virus",
+      "id": "16_xhiyoIDwu6hPsIfbDQCJLJsXHAp3Rr7tBRK7-YukI",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Presentazione in inglese su West Nile Virus → Inglese.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Da base 10 a base x",
+      "id": "18v3y8LtSE5q6QOR5njVWp9Zj8GzB_-XbEJCfrNO1roM",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Conversione numerica → Informatica.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Relazione 17/01/2023 dilatazione dei liquidi",
+      "id": "1Aml2eZEISs9OIh6kD9LnN2kNNESRsCSlKKvt0TQ6RVk",
+      "destinazione": "Da classificare / Fisica o Chimica",
+      "motivazione": "Dilatazione termica → Fisica o Chimica, entrambe non nella struttura Drive.",
+      "confidenza": 78
+    },
+    {
+      "nome": "\"Appunti\" tutti in classe",
+      "id": "1BexP7shd8VAZ6g7jKoZN0Xjfz4gRcOZCE0ApxbdDdGI",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo ambiguo, materia non identificabile.",
+      "confidenza": 30
+    },
+    {
+      "nome": "Parte WHAT West Nile Virus",
+      "id": "1B1DpFOT2XLVWv4agMtX2XL7v5mstetsFj-jEX1JSUnk",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Parte di presentazione West Nile → Inglese.",
+      "confidenza": 78
+    },
+    {
+      "nome": "Tabella ascii.xlsx",
+      "id": "1ZlGoweWCWVyoldlpUVSeWhJE1Zn0UGvO",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Tabella ASCII → Informatica.",
+      "confidenza": 88
+    },
+    {
+      "nome": "I Vettori",
+      "id": "1AYb3cT_CVMfS64TtUdXyYGulhypX_HSXZ5uy4wkAWfA",
+      "destinazione": "Da classificare / Fisica o Informatica",
+      "motivazione": "Vettori → Fisica o Informatica (array). Ambiguo.",
+      "confidenza": 55
+    },
+    {
+      "nome": "Turin",
+      "id": "1KQfk4lCAnsCCXlE2v90dn6qsMcqCNvp7KymY4AvuMqs",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Presentazione su Torino in inglese (titolo in inglese).",
+      "confidenza": 72
+    },
+    {
+      "nome": "Relazione grafico densità fisica",
+      "id": "1ACBkJI95d0oyN4Ng5GwA9cVBeAyp6Yn4owvqCL8kGWw",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Relazione fisica → non nella struttura Drive.",
+      "confidenza": 90
+    },
+    {
+      "nome": "Sperco Alimentare ECC",
+      "id": "1FOXYAPArfG1TpYD9LPZCWSLkCZ3YYPxwq3Xv0b3Ut-4",
+      "destinazione": "2DS - Anno scolastico 2023-24 / Da classificare",
+      "motivazione": "ECC su spreco alimentare, non classificabile in materia standard.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Licenze Creative Commons",
+      "id": "18ILe3p1SRy_iKUsUepBwf6GjTwnFvDVcVFb4fSffHvA",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Creative Commons → Informatica o TPSIT (web/diritti digitali).",
+      "confidenza": 72
+    },
+    {
+      "nome": "Riassunto indirizzi IP e DNS",
+      "id": "16YJ001LXFXuJZikvc4ATZsr5c0U-0yT8XgURFoqQKOc",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Sistemi e Reti / Teoria",
+      "motivazione": "IP e DNS → Sistemi e Reti.",
+      "confidenza": 93
+    },
+    {
+      "nome": "Materiale Verifica informatica 16/11/2022",
+      "id": "1cejpp3Lu9sqbPsBIKhdBTqMzuJE8Qq5rLbsvhQopV1A",
+      "destinazione": "1DS - Anno scolastico 2022-23 / Informatica / Compiti",
+      "motivazione": "Verifica Informatica novembre 2022 → 1DS.",
+      "confidenza": 95
+    },
+    {
+      "nome": "Presentazione senza titolo",
+      "id": "13FG7DM7itB2gBw6cE0zCShiUwKCNn9-a0nWW8Jyfb4s",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo generico.",
+      "confidenza": 15
+    },
+    {
+      "nome": "FEDERICO PEDRETTI - 2.Introduzione agli operatori.pdf (copia 1)",
+      "id": "1vlE0CpEYwxICpKjyWoKMEpuDYvU535B7",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Documento su operatori → Informatica.",
+      "confidenza": 85,
+      "avviso": "DUPLICATO - vedi copia 2"
+    },
+    {
+      "nome": "FEDERICO PEDRETTI - 2.Introduzione agli operatori.pdf (copia 2)",
+      "id": "1o3DhZULlQKcFTg8Ys13se4NXU3QmMjVb",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Teoria",
+      "motivazione": "Duplicato identico.",
+      "confidenza": 85,
+      "avviso": "DUPLICATO - valutare eliminazione"
+    },
+    {
+      "nome": "Risposta domanda 1.mp3 / .m4a",
+      "id": "vari",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Audio registrato per risposta orale → probabilmente Inglese.",
+      "confidenza": 65
+    },
+    {
+      "nome": "Domanda 1 su digital citizens.mp3 / .m4a",
+      "id": "vari",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Digital citizens → tema di educazione civica digitale, spesso in Inglese.",
+      "confidenza": 72
+    },
+    {
+      "nome": "Modalità di lavoro [1-3, ultimo].mp3 / .m4a (serie)",
+      "id": "vari",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Da classificare",
+      "motivazione": "File audio 'modalità di lavoro', materia non identificabile. Probabile Alternanza.",
+      "confidenza": 50
+    },
+    {
+      "nome": "Documento senza titolo (1IHnJ4...)",
+      "id": "1IHnJ4I0EKeL4NeXGzkvpYXT_NPZZpvtSoUmttAKAI",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo generico.",
+      "confidenza": 15
+    },
+    {
+      "nome": "Untitled Jam",
+      "id": "1wK53erFr6L-qGdNJXsxAHfcWeRQCvLpR",
+      "destinazione": "Da classificare",
+      "motivazione": "File Jam senza titolo, materia non identificabile.",
+      "confidenza": 20
+    },
+    {
+      "nome": "Foglio di lavoro senza titolo",
+      "id": "1-1iRFxiHMudJEce-3EdnR2Z5RUfgSkT1AXlFScDjXSQ",
+      "destinazione": "Da classificare",
+      "motivazione": "Titolo generico.",
+      "confidenza": 15
+    },
+    {
+      "nome": "1665414200276.jpg",
+      "id": "1A3OnDszdp4ltvbeN_0j0dT3GAIrLs2nL",
+      "destinazione": "Personale/",
+      "motivazione": "Immagine con nome di timestamp (foto personale).",
+      "confidenza": 80
+    },
+    {
+      "nome": "Modificato - 15 set 2022, 16:37.png",
+      "id": "10E9TEPl4deE2p3UeAK235I2Q32TCRcY4",
+      "destinazione": "Personale/",
+      "motivazione": "Screenshot/immagine personale settembre 2022.",
+      "confidenza": 75
+    },
+    {
+      "nome": "Carta Identità con CF_Fontanari Monica.pdf (x6 copie)",
+      "id": "vari",
+      "destinazione": "Personale/ (o eliminare le copie extra)",
+      "motivazione": "Documento d'identità sensibile di terza persona. 6 copie identiche presenti.",
+      "confidenza": 95,
+      "avviso": "DOCUMENTO SENSIBILE - 6 DUPLICATI. Conservare 1 sola copia in Personale/ e valutare eliminazione delle altre 5"
+    },
+    {
+      "nome": "Maria Teresa D'austria.pptx",
+      "id": "1o2G713PZg_6D-ZDSnd68iJ9E9Hq_Rgpl",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Storia / Teoria",
+      "motivazione": "Presentazione su personaggio storico → Storia.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Air pollution",
+      "id": "13RLKIvzYSFTeLYz8tJ17TdNX7Kj0ZCxulFJbCmtfxPU",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Inglese / Compiti",
+      "motivazione": "Presentazione in inglese su inquinamento → Inglese.",
+      "confidenza": 80
+    },
+    {
+      "nome": "Copia di Lezione_Se_Logici.xlsx",
+      "id": "1-azbbBH8cFvsAWmyNNZLVA-CR7KazD5h",
+      "destinazione": "4DS - Anno scolastico 2025-26 / Informatica / Laboratorio",
+      "motivazione": "Se logici → foglio Excel per Informatica.",
+      "confidenza": 82
+    },
+    {
+      "nome": "Esercizi sulla densità",
+      "id": "18gNRHUvG2aCHpr5vH-eP4WZLlTOLMBo_ntl24YcQHU0",
+      "destinazione": "Da classificare / Fisica",
+      "motivazione": "Fisica non nella struttura Drive.",
+      "confidenza": 85
+    },
+    {
+      "nome": "Cognome_Nome_A",
+      "id": "1azpjGLEKAvVjzMPNW7n-ItPyTY",
+      "destinazione": "Da classificare",
+      "motivazione": "Template generico, materia non identificabile.",
+      "confidenza": 20
+    }
+  ],
+  "riepilogo_problemi": {
+    "materie_non_in_struttura": ["Matematica", "Fisica", "Chimica", "Tedesco", "Diritto (→ Storia)", "TTRG", "ECC"],
+    "documenti_sensibili": [
+      "Carta Identità con CF_Fontanari Monica.pdf (6 copie! - eliminare le extra)",
+      "Curriculum",
+      "adesione_stage_PEDRETTI_FEDERICO.docx",
+      "Pedretti Federico - Scheda Dati Tirocinante PCTO.xlsx"
+    ],
+    "duplicati_rilevanti": [
+      "Carta Identità Fontanari (x6)",
+      "PEDRETTI_FEDERICO_2DS_2024 maggio - teorica.docx (x2)",
+      "FEDERICO PEDRETTI - 2.Introduzione agli operatori.pdf (x2)",
+      "Copia di Gioco dadi (x2 shortcut)",
+      "Copia di Scheda PCTO (originale + copia)",
+      "San Romedio (documento + presentazione)"
+    ],
+    "suggerimento_nuove_cartelle": [
+      "4DS / Matematica (se ancora necessario)",
+      "Archivio / Fisica (per file anni 1DS-2DS)",
+      "Archivio / Chimica (per file anni 1DS-2DS)",
+      "Archivio / Tedesco (per file anni 1DS-2DS)",
+      "Personale/ (già suggerita)",
+      "Da classificare/ (per titoli ambigui)"
+    ]
+  }
+}
