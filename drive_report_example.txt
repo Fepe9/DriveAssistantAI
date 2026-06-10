@@ -1,0 +1,9 @@
+=== FILE NELLA ROOT ===
+
+Nome: Giacomo Leopardi
+ID: 1RBDc5bkb8Bkjl3G6C0aQtIuAl64IWHCz0kVSjfea56Q
+Tipo: application/vnd.google-apps.document
+
+Nome: Nome File
+ID: .. id ..
+Tipo: application/vnd.google-apps.document
